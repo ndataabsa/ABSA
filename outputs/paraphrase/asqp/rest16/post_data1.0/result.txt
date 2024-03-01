@@ -1,0 +1,8 @@
+ beam: 1, constrained: False
+test precision: 57.49 recall: 59.57 F1 = 58.51
+ beam: 1, constrained: False
+test precision: 57.49 recall: 59.57 F1 = 58.51
+seed: 25, beam: 1, constrained: False
+test vote precision: 56.73 recall: 58.57 F1 = 57.64
+seed: 25, beam: 1, constrained: False
+dpo_sft_asqp_rest15_31_12_test vote precision: 56.72 recall: 57.07 F1 = 56.89

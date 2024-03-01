@@ -1,0 +1,6 @@
+ beam: 1, constrained: False
+test precision: 48.11 recall: 49.56 F1 = 48.82
+ beam: 1, constrained: False
+test precision: 46.39 recall: 48.43 F1 = 47.38
+seed: 25, beam: 1, constrained: False
+test vote precision: 47.24 recall: 49.56 F1 = 48.37

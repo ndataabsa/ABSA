@@ -1,0 +1,11 @@
+seed: 25, beam: 1, constrained: False
+seed: 25, beam: 1, constrained: False
+train_zero_1 vote precision: 14.89 recall: 14.23 F1 = 14.56
+seed: 25, beam: 1, constrained: False
+seed: 25, beam: 1, constrained: False
+seed: 25, beam: 1, constrained: False
+seed: 25, beam: 1, constrained: False
+seed: 25, beam: 1, constrained: False
+train-Copy1 vote precision: 15.11 recall: 14.91 F1 = 15.01
+seed: 25, beam: 1, constrained: False
+train-Copy1 vote precision: 15.11 recall: 14.91 F1 = 15.01

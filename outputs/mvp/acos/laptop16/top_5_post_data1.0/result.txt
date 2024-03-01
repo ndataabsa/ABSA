@@ -1,0 +1,14 @@
+seed: 25, beam: 1, constrained: False
+seed: 25, beam: 1, constrained: False
+sft_zero1440_test vote precision: 33.63 recall: 32.90 F1 = 33.26
+seed: 25, beam: 1, constrained: False
+dpo_zero1440_test vote precision: 43.00 recall: 44.44 F1 = 43.71
+seed: 25, beam: 1, constrained: False
+sft_acos_rt16_5_rt16_3_test vote precision: 41.92 recall: 41.77 F1 = 41.85
+seed: 25, beam: 1, constrained: False
+seed: 25, beam: 1, constrained: False
+dpo_acos_rt16_5_rt16_3_test vote precision: 39.75 recall: 44.27 F1 = 41.89
+seed: 25, beam: 1, constrained: False
+sft_zero14400_test vote precision: 41.29 recall: 40.40 F1 = 40.84
+seed: 25, beam: 1, constrained: False
+dpo_zero14400_test vote precision: 43.69 recall: 43.84 F1 = 43.77

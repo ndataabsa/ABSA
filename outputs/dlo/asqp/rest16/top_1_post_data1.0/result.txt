@@ -1,0 +1,2 @@
+seed: 25, beam: 1, constrained: False
+dpo_sft_asqp_rest15_31_12_test heuristic precision: 55.83 recall: 58.70 F1 = 57.23

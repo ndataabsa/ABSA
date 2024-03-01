@@ -1,0 +1,21 @@
+seed: 25, beam: 1, constrained: False
+train_zero_1 vote precision: 19.87 recall: 18.33 F1 = 19.07
+seed: 25, beam: 1, constrained: False
+train_zero_2 vote precision: 19.19 recall: 16.67 F1 = 17.84
+seed: 25, beam: 1, constrained: False
+train_zero_3 vote precision: 20.03 recall: 18.47 F1 = 19.22
+seed: 25, beam: 1, constrained: False
+train_zero_4 vote precision: 19.94 recall: 18.33 F1 = 19.10
+seed: 25, beam: 1, constrained: False
+train_zero_5 vote precision: 19.56 recall: 18.53 F1 = 19.03
+seed: 25, beam: 1, constrained: False
+train_zero_6 vote precision: 19.37 recall: 17.94 F1 = 18.63
+seed: 25, beam: 1, constrained: False
+train_zero_7 vote precision: 19.26 recall: 17.77 F1 = 18.48
+seed: 25, beam: 1, constrained: False
+train_zero_8 vote precision: 19.18 recall: 17.65 F1 = 18.38
+seed: 25, beam: 1, constrained: False
+train_zero_9 vote precision: 19.17 recall: 17.63 F1 = 18.37
+seed: 25, beam: 1, constrained: False
+train_zero_10 vote precision: 19.26 recall: 18.24 F1 = 18.74
+seed: 25, beam: 1, constrained: False

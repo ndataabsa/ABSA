@@ -1,0 +1,13 @@
+acos_rest16_10shot_test precision: 27.44 recall: 31.88 F1 = 29.49
+acos_rest16_10shot_test precision: 27.44 recall: 31.88 F1 = 29.49
+acos_rest16_0shot_test precision: 0.00 recall: 0.00 F1 = 0.00
+acos_rest16_0shot_test precision: 27.70 recall: 30.57 F1 = 29.06
+asqp_rest15_0shot_test precision: 29.94 recall: 35.85 F1 = 32.63
+asqp_rest16_0shot_test precision: 31.65 recall: 37.55 F1 = 34.34
+acos_laptop16_0shot_test precision: 0.08 recall: 0.09 F1 = 0.08
+acos_laptop16_0shot_test precision: 9.48 recall: 10.77 F1 = 10.08
+acos_laptop16_10shot_test precision: 15.94 recall: 20.84 F1 = 18.07
+asqp_rest15_10shot_test precision: 33.65 recall: 40.13 F1 = 36.60
+asqp_rest16_10shot_test precision: 36.04 recall: 42.18 F1 = 38.87
+acos_rest16_10shot_test precision: 37.71 recall: 43.56 F1 = 40.43
+acos_rest16_0shot_test precision: 28.80 recall: 31.22 F1 = 29.96

@@ -1,0 +1,47 @@
+seed: 25, beam: 1, constrained: False
+test vote precision: 52.79 recall: 54.69 F1 = 53.73
+seed: 25, beam: 1, constrained: False
+train_zero_1 vote precision: 13.82 recall: 14.32 F1 = 14.07
+seed: 25, beam: 1, constrained: False
+train_zero_2 vote precision: 13.49 recall: 13.22 F1 = 13.36
+seed: 25, beam: 1, constrained: False
+train_zero_3 vote precision: 13.97 recall: 14.48 F1 = 14.22
+seed: 25, beam: 1, constrained: False
+train_zero_4 vote precision: 13.67 recall: 14.15 F1 = 13.91
+seed: 25, beam: 1, constrained: False
+train_zero_5 vote precision: 14.11 recall: 14.74 F1 = 14.42
+seed: 25, beam: 1, constrained: False
+train_zero_6 vote precision: 13.95 recall: 14.28 F1 = 14.11
+seed: 25, beam: 1, constrained: False
+train_zero_7 vote precision: 13.95 recall: 14.23 F1 = 14.09
+seed: 25, beam: 1, constrained: False
+train_zero_8 vote precision: 13.93 recall: 14.23 F1 = 14.08
+seed: 25, beam: 1, constrained: False
+train_zero_9 vote precision: 13.89 recall: 14.20 F1 = 14.04
+seed: 25, beam: 1, constrained: False
+train_zero_10 vote precision: 14.04 recall: 14.62 F1 = 14.32
+seed: 25, beam: 1, constrained: False
+dev_zero_1 vote precision: 25.50 recall: 26.92 F1 = 26.19
+seed: 25, beam: 1, constrained: False
+dev_zero_2 vote precision: 24.86 recall: 26.26 F1 = 25.55
+seed: 25, beam: 1, constrained: False
+dev_zero_3 vote precision: 24.88 recall: 25.94 F1 = 25.40
+seed: 25, beam: 1, constrained: False
+dev_zero_4 vote precision: 24.90 recall: 26.02 F1 = 25.45
+seed: 25, beam: 1, constrained: False
+dev_zero_5 vote precision: 24.79 recall: 25.94 F1 = 25.35
+seed: 25, beam: 1, constrained: False
+dev_zero_6 vote precision: 25.12 recall: 26.18 F1 = 25.64
+seed: 25, beam: 1, constrained: False
+dev_zero_7 vote precision: 25.08 recall: 26.18 F1 = 25.62
+seed: 25, beam: 1, constrained: False
+dev_zero_8 vote precision: 24.96 recall: 26.02 F1 = 25.48
+seed: 25, beam: 1, constrained: False
+dev_zero_9 vote precision: 24.80 recall: 25.86 F1 = 25.32
+seed: 25, beam: 1, constrained: False
+dev_zero_10 vote precision: 24.73 recall: 25.86 F1 = 25.28
+seed: 25, beam: 1, constrained: False
+seed: 25, beam: 1, constrained: False
+train-Copy1 vote precision: 18.54 recall: 19.77 F1 = 19.14
+seed: 25, beam: 1, constrained: False
+dev-Copy1 vote precision: 34.01 recall: 37.11 F1 = 35.49

@@ -12,3 +12,7 @@ seed: 25, beam: 1, constrained: False
 sft_zero14400_test vote precision: 41.29 recall: 40.40 F1 = 40.84
 seed: 25, beam: 1, constrained: False
 dpo_zero14400_test vote precision: 43.69 recall: 43.84 F1 = 43.77
+seed: 25, beam: 1, constrained: False
+dev-Copy1 vote precision: 0.75 recall: 0.71 F1 = 0.73
+seed: 25, beam: 1, constrained: False
+train-Copy1 vote precision: 0.98 recall: 0.90 F1 = 0.94

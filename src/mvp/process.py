@@ -177,7 +177,7 @@ def error_type(predict_df, target_df):
 def trans_tuple(input_list):
     indexed_data = [(i, item) for i, sublist in enumerate(input_list, start=1) for item in sublist]
     df = pd.DataFrame(indexed_data, columns=['Index', 'Data'])
-    df[[ 'Aspect','Category', 'Sentiment', 'Opinion']] = pd.DataFrame(df['Data'].tolist(), index=df.index)
+    df[[ 'Category', 'Aspect','Sentiment', 'Opinion']] = pd.DataFrame(df['Data'].tolist(), index=df.index)
     df.drop('Data', axis=1, inplace=True)
     df.rename(columns={'Index': 'sent_id'}, inplace=True)
     df['quad_ord'] = df.groupby('sent_id').cumcount() + 1

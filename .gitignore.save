@@ -1,0 +1,17 @@
+ff### JupyterNotebooks ###
+# gitignore template for Jupyter Notebooks
+
+
+
+# website: http://jupyter.org/
+*/.ipynb_checkpoints/*
+
+# 특정 디렉토리 무시
+*/final*/*
+*/*logs/*
+*/lightning_logs/*
+*/final/*
+*/final2/*
+
+# 파이썬 파일
+*.pyc

@@ -11,6 +11,7 @@ python -m ipykernel install --user --name mvp --display-name mvp
 
 ## Requirements
 
+```sh
 We highly recommend you to install the specified version of the following packages to avoid unnecessary troubles:
 
 typing-extensions==4.6.2
@@ -22,5 +23,5 @@ tqdm==4.65.0
 transformers==4.14.1
 openai==0.27.7
 Requests==2.31.0
-
+```
 

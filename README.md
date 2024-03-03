@@ -25,3 +25,13 @@ openai==0.27.7
 Requests==2.31.0
 ```
 
+## git push
+```sh
+eval "$(ssh-agent -s)"
+ssh-add ~/.ssh/id_ndata_rsa
+
+cd ~/ABSA
+git add .
+git commit -m "data upload"
+git push -u origin main
+```
